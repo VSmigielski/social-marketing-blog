@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Footer = () => {
   return (
       <>
-        <footer className="flex h-24 w-full items-center justify-center fixed bottom-0">
+        <footer className="flex h-24 w-full items-center justify-center">
             <a
             className="flex items-center justify-center gap-2"
             href="https://www.veronicasmigielski.com/"
